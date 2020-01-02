@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.7.7)  4 AUG 2019 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.9.10)  2 JAN 2020 17:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -131,8 +131,6 @@ File: babel.def 2018/11/13 3.27 Babel common definitions
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count90
 )
-\l@british = a dialect from \language\l@english 
-\l@UKenglish = a dialect from \language\l@english 
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
@@ -529,13 +527,18 @@ Overfull \hbox (9.93417pt too wide) in paragraph at lines 159--159
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []\OT1/cmr/m/it/10.95 (+20) Porcesador
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--180
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
 []\OT1/cmr/m/it/10.95 (+20) Sistemas
+ []
+
+
+Overfull \hbox (9.27403pt too wide) in paragraph at lines 190--190
+[]\OT1/cmr/m/it/10.95 (-20) Virtualizaci^^Son
  []
 
 [2]
@@ -545,7 +548,7 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 213.
+ne 222.
 
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
@@ -553,10 +556,10 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 224.
+ne 233.
 
 
-Overfull \hbox (1.48795pt too wide) in paragraph at lines 225--225
+Overfull \hbox (1.48795pt too wide) in paragraph at lines 234--234
 \OT1/cmr/bx/n/10.95 Trabajo de in-ves-ti-gaci^^Son en se-guri-dad inal^^Sambric
 a  [][][][][][] 
  []
@@ -567,16 +570,24 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 231.
+ne 240.
+
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 243.
 
 [3] (./Jesús Rodríguez Heras.aux) ) 
 Here is how much of TeX's memory you used:
- 8539 strings out of 494561
- 137114 string characters out of 6177455
- 372105 words of memory out of 5000000
- 12034 multiletter control sequences out of 15000+600000
- 18285 words of font info for 61 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 8539 strings out of 492615
+ 137110 string characters out of 6131390
+ 378067 words of memory out of 5000000
+ 12283 multiletter control sequences out of 15000+600000
+ 18336 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
  51i,6n,51p,9111b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/d
 vips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
@@ -586,7 +597,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on "Jesús Rodríguez Heras.pdf" (3 pages, 92779 bytes).
+Output written on "Jesús Rodríguez Heras.pdf" (3 pages, 95522 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
